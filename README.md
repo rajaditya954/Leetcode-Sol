@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0875-koko-eating-bananas](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0875-koko-eating-bananas) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -80,4 +81,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0124-binary-tree-maximum-path-sum) |
+## Math
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
