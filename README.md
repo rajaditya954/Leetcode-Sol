@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -107,5 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
