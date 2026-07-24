@@ -119,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
