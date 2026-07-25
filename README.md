@@ -127,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0077-combinations) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
