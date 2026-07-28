@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2094-finding-3-digit-even-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
