@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
+| [0815-bus-routes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0496-next-greater-element-i) |
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
+| [0815-bus-routes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0815-bus-routes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2094-finding-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
+| [0815-bus-routes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0815-bus-routes) |
 ## Binary Tree
 |  |
 | ------- |
