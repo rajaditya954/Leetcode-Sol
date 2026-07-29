@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0496-next-greater-element-i) |
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2094-finding-3-digit-even-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -199,10 +202,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0503-next-greater-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
