@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0496-next-greater-element-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0876-middle-of-the-linked-list) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Enumeration
 |  |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
