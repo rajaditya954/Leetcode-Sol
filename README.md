@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0496-next-greater-element-i) |
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
