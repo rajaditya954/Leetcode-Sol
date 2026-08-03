@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0084-largest-rectangle-in-histogram) |
+| [0198-house-robber](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
