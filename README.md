@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0815-bus-routes) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
