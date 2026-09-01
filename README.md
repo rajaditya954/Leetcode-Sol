@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0752-open-the-lock) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0815-bus-routes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0815-bus-routes) |
 ## Binary Tree
 |  |
@@ -155,10 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0098-validate-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
