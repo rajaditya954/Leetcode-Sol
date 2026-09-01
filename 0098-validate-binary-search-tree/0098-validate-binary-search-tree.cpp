@@ -1,18 +1,21 @@
 class Solution {
 public:
-    bool isBST(TreeNode* root, long long low, long long high) {
-        if (root == NULL)
+    bool helper(TreeNode* root, TreeNode* min, TreeNode* max) {
+        if (root == NULL) {
             return true;
-
-    
-        if (root->val <= low || root->val >= high)
+        }
+        
+        if (min != NULL && root->val <= min->val) {
             return false;
-
-        return isBST(root->left, low, root->val) &&
-               isBST(root->right, root->val, high);
-    }
+        }
+        if (max != NULL && root->val >= max->val) {
+            return false;
+        }
+        
+        return helper(root->left, min, root) && helper(root->right, root, max);
+    } 
 
     bool isValidBST(TreeNode* root) {
-        return isBST(root, LLONG_MIN, LLONG_MAX);
+        return helper(root, NULL, NULL);
     }
 };
