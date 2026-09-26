@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0496-next-greater-element-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0496-next-greater-element-i) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2094-finding-3-digit-even-numbers) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -356,8 +361,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
