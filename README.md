@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0141-linked-list-cycle) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0387-first-unique-character-in-a-string) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0628-maximum-product-of-three-numbers) |
