@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2094-finding-3-digit-even-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0486-predict-the-winner) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
 | ------- |
@@ -400,4 +403,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
