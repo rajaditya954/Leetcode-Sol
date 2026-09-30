@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
+| [0475-heaters](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0496-next-greater-element-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0278-first-bad-version) |
+| [0475-heaters](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0475-heaters) |
 | [0875-koko-eating-bananas](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0142-linked-list-cycle-ii) |
+| [0475-heaters](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0475-heaters) |
 | [0876-middle-of-the-linked-list](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
+| [0475-heaters](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
