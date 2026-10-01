@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0486-predict-the-winner) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0025-reverse-nodes-in-k-group) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0025-reverse-nodes-in-k-group) |
