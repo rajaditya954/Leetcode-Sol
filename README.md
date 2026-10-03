@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0387-first-unique-character-in-a-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0198-house-robber) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
