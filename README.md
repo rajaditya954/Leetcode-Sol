@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2402-meeting-rooms-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3731-find-missing-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0973-k-closest-points-to-origin](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2402-meeting-rooms-iii) |
 ## Monotonic Queue
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2402-meeting-rooms-iii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
