@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2402-meeting-rooms-iii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0210-course-schedule-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -570,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
