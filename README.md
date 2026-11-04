@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3665-twisted-mirror-path-count) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2402-meeting-rooms-iii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
@@ -306,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3723-maximize-sum-of-squares-of-digits) |
