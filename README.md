@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1882-process-tasks-using-servers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1882-process-tasks-using-servers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0480-sliding-window-median) |
 | [0973-k-closest-points-to-origin](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2402-meeting-rooms-iii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
