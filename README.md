@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1254-number-of-closed-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rajaditya954/Leetcode-Sol/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3665-twisted-mirror-path-count) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajaditya954/Leetcode-Sol/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/rajaditya954/Leetcode-Sol/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3518-smallest-palindromic-rearrangement-ii) |
