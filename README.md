@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3886-sum-of-sortable-integers) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Queue
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/rajaditya954/Leetcode-Sol/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Game Theory
 |  |
 | ------- |
